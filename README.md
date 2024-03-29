@@ -1,5 +1,5 @@
 # VHF-Power-Relay
-VHF Power Relay for switching PA or Preamp
+VHF Power Relay to switch PA or Preamp etc.
 
 Relay used: OMRON G2RL-1-E 12V-DC 16A/250V
 
